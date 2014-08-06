@@ -24,3 +24,11 @@ https://plus.google.com/102568813313976723836/posts/KcMzhxZz6V9
 ## Gazette 
 
 http://www.elementaryos-fr.org/documentation/customisation/gazette/
+
+## Eidete
+
+## baseline 
+
+## Manix
+
+## Freya calc
