@@ -28,7 +28,10 @@ http://www.elementaryos-fr.org/documentation/customisation/gazette/
 ## Eidete
 
 ## baseline 
+https://github.com/Digi59404
 
 ## Manix
+https://plus.google.com/109256860773710627217
 
-## Freya calc
+## Imgur files plugin
+https://plus.google.com/108592136122613230661/posts/BnSgmVggrFY
