@@ -35,3 +35,6 @@ https://plus.google.com/109256860773710627217
 
 ## Imgur files plugin
 https://plus.google.com/108592136122613230661/posts/BnSgmVggrFY
+
+## Developer manual 
+http://www.elementaryos-fr.org/manuel-du-developpeur-elementary-disponible-google-play/
