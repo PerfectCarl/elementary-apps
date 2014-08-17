@@ -40,7 +40,9 @@ https://plus.google.com/108592136122613230661/posts/BnSgmVggrFY
 http://www.elementaryos-fr.org/manuel-du-developpeur-elementary-disponible-google-play/
 
 ## Watson: the deb installer 
+
 By [Michael Roberts](https://plus.google.com/105843008866122426793/posts)
+
 [Source available](http://www.elementarynow.com/f/topic/drag-and-drop-deb-installer/)
 
 ![](http://www.elementaryos-fr.org/wp-content/uploads/2014/08/watson-600x600.png)
