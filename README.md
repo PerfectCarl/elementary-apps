@@ -39,6 +39,11 @@ https://plus.google.com/108592136122613230661/posts/BnSgmVggrFY
 ## Developer manual 
 http://www.elementaryos-fr.org/manuel-du-developpeur-elementary-disponible-google-play/
 
+## Watson: the deb installer 
+By [Michael Roberts](https://plus.google.com/105843008866122426793/posts)
+[Source available](http://www.elementarynow.com/f/topic/drag-and-drop-deb-installer/)
+
+![](http://www.elementaryos-fr.org/wp-content/uploads/2014/08/watson-600x600.png)
 ## [Performace plug](https://plus.google.com/110201911683994193489/posts/QA9ukAdHWzc?pid=6047747095108997506&oid=110201911683994193489) 
 
 ![](https://lh3.googleusercontent.com/-zPI0QHIg9W4/U-3p8M9fUYI/AAAAAAAAAcs/gLhC2Rnv7h4/w1065-h599-no/Schermafdruk%2Bvan%2B2014-08-15%2B13%3A05%3A27.png)
