@@ -46,8 +46,10 @@ By [Michael Roberts](https://plus.google.com/105843008866122426793/posts)
 ![](http://www.elementaryos-fr.org/wp-content/uploads/2014/08/watson-600x600.png)
 ## [Performance plug](https://plus.google.com/110201911683994193489/posts/QA9ukAdHWzc?pid=6047747095108997506&oid=110201911683994193489) 
 
-![](https://lh3.googleusercontent.com/-zPI0QHIg9W4/U-3p8M9fUYI/AAAAAAAAAcs/gLhC2Rnv7h4/w1065-h599-no/Schermafdruk%2Bvan%2B2014-08-15%2B13%3A05%3A27.png)
+![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/performance-plug.png)
 
 ## [Unnamed ftp client](https://plus.google.com/+KiranHampal/posts/R6FD2tQ3dEg)
+
 By [Kiran Hampal](https://plus.google.com/+KiranHampal)
+
 ![](https://lh4.googleusercontent.com/-Z682HjA-UNQ/U-_yiXSx4pI/AAAAAAAABz8/dGW0iS-y5_I/w921-h689-no/taxi-2.png)
