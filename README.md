@@ -120,3 +120,17 @@ By [Kay van der Zander](https://plus.google.com/+KayvanderZander/posts)
 By [Kiran Hampal](https://plus.google.com/+KiranHampal)
 
 ![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/ftp.png)
+
+## [Agenda](https://launchpad.net/~agenda-developers/+archive/ubuntu/daily)
+
+By the [Dane Henson](https://launchpad.net/~thegreatdane)
+
+How to install 
+```
+sudo add-apt-repository ppa:agenda-developers/daily
+sudo apt-get update
+sudo apt-get install agenda-tasks 
+```
+
+![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/agenda.png)
+
