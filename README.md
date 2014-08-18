@@ -21,9 +21,20 @@ $ sudo apt-get install indicator-synapse
 
 https://plus.google.com/102568813313976723836/posts/KcMzhxZz6V9
 
-## Gazette 
+## [Gazette](https://launchpad.net/gazette) 
 
-http://www.elementaryos-fr.org/documentation/customisation/gazette/
+By [Edward Gotwig](https://launchpad.net/~gotwig) 
+
+How to install 
+```shell 
+sudo apt-add-repository ppa:gotwig/weekly
+sudo apt-get update
+sudo apt-get install gazette
+```
+
+![](http://www.elementaryos-fr.org/wp-content/uploads/2013/08/gazette.png)
+
+More [info (in French)](http://www.elementaryos-fr.org/documentation/customisation/gazette/)
 
 ## Eidete
 
