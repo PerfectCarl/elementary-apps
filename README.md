@@ -9,7 +9,7 @@ $ sudo apt-get update
 $ sudo apt-get install indicator-synapse
 ```
 
-More [at webupd8](http://www.webupd8.org/2013/06/synapse-indicator-new-search.html)
+More [at webupd8](http://www.webupd8.org/2013/06/synapse-indicator-new-search.html). How to install:
 
 ![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/synapse-indicator.png)
 
@@ -17,7 +17,7 @@ More [at webupd8](http://www.webupd8.org/2013/06/synapse-indicator-new-search.ht
 
 By [Edward Gotwig](https://plus.google.com/u/0/115670495573146293359)
 
-How to install 
+How to install: 
 ```bash 
 sudo apt-add-repository ppa:versable/elementary-update
 sudo apt-get update
@@ -38,7 +38,7 @@ By [Birdie team](https://github.com/birdieapp)
 
 By [Nathan Dyer](http://nathandyer.me/)
 
-How to install 
+How to install: 
 ```bash 
 sudo apt-add-repository ppa:nathandyer/vocal-daily
 sudo apt-get update
@@ -69,7 +69,7 @@ http://elementarytips.blogspot.fr/2013/02/lightread-redux.html
 
 By [Edward Gotwig](https://launchpad.net/~gotwig) 
 
-How to install 
+How to install: 
 ```bash 
 sudo apt-add-repository ppa:gotwig/weekly
 sudo apt-get update
@@ -84,7 +84,7 @@ More [info (in French)](http://www.elementaryos-fr.org/documentation/customisati
 
 By [Tom Beckman](https://plus.google.com/+TomBeckmann)
 
-How to install 
+How to install: 
 ```bash 
 sudo apt-get install eidete 
 ```
@@ -129,7 +129,7 @@ By [Kiran Hampal](https://plus.google.com/+KiranHampal)
 
 By [Dane Henson](https://launchpad.net/~thegreatdane)
 
-How to install 
+How to install: 
 ```
 sudo add-apt-repository ppa:agenda-developers/daily
 sudo apt-get update
