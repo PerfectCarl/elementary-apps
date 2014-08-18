@@ -46,7 +46,7 @@ sudo apt-get install vocal
 
 By [Tom Beckman](https://plus.google.com/+TomBeckmann) 
 
-## Office 365(https://plus.google.com/102568813313976723836/posts/KcMzhxZz6V9)
+## [Office 365](https://plus.google.com/102568813313976723836/posts/KcMzhxZz6V9)
 
 ![](/doc/office365-slingshot.png)
 
