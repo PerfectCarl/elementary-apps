@@ -123,7 +123,7 @@ By [Kiran Hampal](https://plus.google.com/+KiranHampal)
 
 ## [Agenda](https://launchpad.net/~agenda-developers/+archive/ubuntu/daily)
 
-By the [Dane Henson](https://launchpad.net/~thegreatdane)
+By [Dane Henson](https://launchpad.net/~thegreatdane)
 
 How to install 
 ```
