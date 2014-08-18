@@ -20,6 +20,9 @@ sudo apt-get update
 sudo apt-get install cable
 ```
 
+![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/cable.jpg)
+
+
 ## [Birdie](http://birdieapp.github.io/) 
 
 By [Birdie team](https://github.com/birdieapp)
