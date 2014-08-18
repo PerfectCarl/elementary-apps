@@ -20,7 +20,7 @@ sudo apt-get update
 sudo apt-get install cable
 ```
 
-![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/cable.jpg)
+![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/cable.png)
 
 
 ## [Birdie](http://birdieapp.github.io/) 
@@ -53,7 +53,7 @@ By [Tom Beckman](https://plus.google.com/+TomBeckmann)
 
 ![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/office365-slinghot.jpg)
 
-![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/office365.jpg)
+![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/office365.png)
 
 ## Light reader 
 
@@ -83,7 +83,7 @@ How to install
 sudo apt-get install eidete 
 ```
 
-![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/eidete.jpg)
+![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/eidete.png)
 
 ## baseline 
 https://github.com/Digi59404
@@ -105,7 +105,7 @@ By [Michael Roberts](https://plus.google.com/105843008866122426793/posts)
 
 [Source available](http://www.elementarynow.com/f/topic/drag-and-drop-deb-installer/)
 
-![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/watson.jpg)
+![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/watson.png)
 
 ## [Performance plug](https://plus.google.com/110201911683994193489/posts/QA9ukAdHWzc?pid=6047747095108997506&oid=110201911683994193489) 
 
@@ -117,4 +117,4 @@ By [Kay van der Zander](https://plus.google.com/+KayvanderZander/posts)
 
 By [Kiran Hampal](https://plus.google.com/+KiranHampal)
 
-![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/ftp.jpg)
+![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/ftp.png)
