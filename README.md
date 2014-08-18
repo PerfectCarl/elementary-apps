@@ -41,9 +41,10 @@ More [info (in French)](http://www.elementaryos-fr.org/documentation/customisati
 ## baseline 
 https://github.com/Digi59404
 
-## Manix
-https://plus.google.com/109256860773710627217
+## [Manix](https://plus.google.com/109256860773710627217/posts/APYJdnvQWqj)
+By [Shawn McTear](https://plus.google.com/109256860773710627217) 
 
+![](https://lh3.googleusercontent.com/-ypN0oLALIXI/U-2V3W4afkI/AAAAAAAAJVc/r_61i0lxjkI/w1225-h689-no/Screenshot%2Bfrom%2B2014-08-15%2B01%3A07%3A48.png)
 ## Imgur files plugin
 https://plus.google.com/108592136122613230661/posts/BnSgmVggrFY
 
