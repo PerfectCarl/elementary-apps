@@ -70,7 +70,7 @@ http://elementarytips.blogspot.fr/2013/02/lightread-redux.html
 
 ## [Gazette](https://launchpad.net/gazette) 
 
-By [Edward Gotwig](https://launchpad.net/~gotwig) 
+By [Tom Beckman](https://plus.google.com/+TomBeckmann) and [Edward Gotwig](https://launchpad.net/~gotwig) 
 
 How to install: 
 ```bash 
