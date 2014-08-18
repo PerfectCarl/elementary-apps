@@ -49,6 +49,8 @@ sudo apt-get install vocal
 
 By [Tom Beckman](https://plus.google.com/+TomBeckmann) 
 
+![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/gala-plugin.png)
+
 ## [Office 365](https://plus.google.com/102568813313976723836/posts/KcMzhxZz6V9)
 
 ![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/office365-slinghot.jpg)
