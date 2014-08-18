@@ -20,6 +20,9 @@ sudo apt-get update
 sudo apt-get install cable
 ```
 
+![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/cable.png)
+
+
 ## [Birdie](http://birdieapp.github.io/) 
 
 By [Birdie team](https://github.com/birdieapp)
@@ -46,11 +49,13 @@ sudo apt-get install vocal
 
 By [Tom Beckman](https://plus.google.com/+TomBeckmann) 
 
+![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/gala-plugin.png)
+
 ## [Office 365](https://plus.google.com/102568813313976723836/posts/KcMzhxZz6V9)
 
-![](/doc/office365-slingshot.png)
+![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/office365-slinghot.jpg)
 
-![](/doc/office365-web.png)
+![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/office365.png)
 
 ## Light reader 
 
@@ -80,7 +85,7 @@ How to install
 sudo apt-get install eidete 
 ```
 
-![](/doc/eidete.png)
+![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/eidete.png)
 
 ## baseline 
 https://github.com/Digi59404
@@ -102,7 +107,7 @@ By [Michael Roberts](https://plus.google.com/105843008866122426793/posts)
 
 [Source available](http://www.elementarynow.com/f/topic/drag-and-drop-deb-installer/)
 
-![](http://www.elementaryos-fr.org/wp-content/uploads/2014/08/watson-600x600.png)
+![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/watson.png)
 
 ## [Performance plug](https://plus.google.com/110201911683994193489/posts/QA9ukAdHWzc?pid=6047747095108997506&oid=110201911683994193489) 
 
@@ -114,4 +119,18 @@ By [Kay van der Zander](https://plus.google.com/+KayvanderZander/posts)
 
 By [Kiran Hampal](https://plus.google.com/+KiranHampal)
 
-![](https://lh4.googleusercontent.com/-Z682HjA-UNQ/U-_yiXSx4pI/AAAAAAAABz8/dGW0iS-y5_I/w921-h689-no/taxi-2.png)
+![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/ftp.png)
+
+## [Agenda](https://launchpad.net/~agenda-developers/+archive/ubuntu/daily)
+
+By [Dane Henson](https://launchpad.net/~thegreatdane)
+
+How to install 
+```
+sudo add-apt-repository ppa:agenda-developers/daily
+sudo apt-get update
+sudo apt-get install agenda-tasks 
+```
+
+![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/agenda.png)
+
