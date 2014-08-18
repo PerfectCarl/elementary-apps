@@ -2,14 +2,14 @@ elementary-apps
 ===============
 
 ##synapse for zeitgeist 
-Instructions [at linuxg](http://linuxg.net/how-to-install-indicator-synapse-0-525-on-ubuntu-14-04-and-elementary-os-0-3/)
+Instructions [at linuxg](http://linuxg.net/how-to-install-indicator-synapse-0-525-on-ubuntu-14-04-and-elementary-os-0-3/). How to install:
 ```
 $ sudo add-apt-repository ppa:noobslab/apps
 $ sudo apt-get update
 $ sudo apt-get install indicator-synapse
 ```
 
-More [at webupd8](http://www.webupd8.org/2013/06/synapse-indicator-new-search.html). How to install:
+More [at webupd8](http://www.webupd8.org/2013/06/synapse-indicator-new-search.html).
 
 ![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/synapse-indicator.png)
 
