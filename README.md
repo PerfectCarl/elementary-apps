@@ -116,6 +116,8 @@ By [Michael Roberts](https://plus.google.com/105843008866122426793/posts)
 
 ![](https://raw.githubusercontent.com/PerfectCarl/elementary-apps/master/doc/watson.png)
 
+Updated [here](https://plus.google.com/105843008866122426793/posts/HsFnzHXe8rp)
+
 ## [Performance plug](https://plus.google.com/110201911683994193489/posts/QA9ukAdHWzc?pid=6047747095108997506&oid=110201911683994193489) 
 
 By [Kay van der Zander](https://plus.google.com/+KayvanderZander/posts)
