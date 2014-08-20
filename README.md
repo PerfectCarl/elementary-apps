@@ -146,3 +146,7 @@ sudo apt-get install agenda-tasks
 ## Footnote 
 
 ## GWoffice
+
+## elementarty [plugin for Chrome](https://plus.google.com/105729291739660012806/posts/hus5Ccbs5hy)
+
+![](https://lh6.googleusercontent.com/7OUhOZUmAJXIAKtbpmsyReTEcb0AXFVtjIgbeyCXlj5LQcCxMIsT4mz1lgm6-ZSeP-pBg3Tv3A=s640-h400-e365)
